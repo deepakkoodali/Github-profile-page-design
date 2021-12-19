@@ -1,0 +1,58 @@
+
+/* Overall background color */
+body{
+    background-color: rgb(212, 214, 213);
+}
+
+
+/* Changing default sizing */
+.container-fluid{
+    padding: 0;
+    margin: 0;
+}
+
+
+/* Title name customization */
+.custom_name{
+    color: white;
+    letter-spacing: 3px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+/* Search area customization */
+.custom_search{
+    width:60%;
+    background-color: #35373b;
+    letter-spacing: 2px;
+    font-weight: 600;
+    border-radius: 8px;
+    border-style: none;
+   
+}
+
+
+/* 3 boxes customization */
+.box_1{
+    width: auto;
+    height: 120px;
+    background-color:#35373b;
+    border-radius: 15px;
+}
+
+
+/* Footer box customization */
+.box_2{
+    height: 150px;
+    background-color: #35373b;
+    border-radius: 20px;
+}
+
+
+/* Vertical box customization */
+.vertical_box{
+    height: 440px;
+    background-color: #35373b;
+    border-radius: 20px;
+}
